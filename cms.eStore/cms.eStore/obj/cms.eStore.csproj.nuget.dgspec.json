@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\cms.eStore\\cms.eStore\\cms.eStore.csproj": {}
+    "E:\\GitHub\\codigo_eStore\\cms.eStore\\cms.eStore\\cms.eStore.csproj": {}
   },
   "projects": {
-    "E:\\cms.eStore\\cms.eStore\\cms.eStore.csproj": {
+    "E:\\GitHub\\codigo_eStore\\cms.eStore\\cms.eStore\\cms.eStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\cms.eStore\\cms.eStore\\cms.eStore.csproj",
+        "projectUniqueName": "E:\\GitHub\\codigo_eStore\\cms.eStore\\cms.eStore\\cms.eStore.csproj",
         "projectName": "cms.eStore",
-        "projectPath": "E:\\cms.eStore\\cms.eStore\\cms.eStore.csproj",
+        "projectPath": "E:\\GitHub\\codigo_eStore\\cms.eStore\\cms.eStore\\cms.eStore.csproj",
         "packagesPath": "C:\\Users\\Tin Linn Soe\\.nuget\\packages\\",
-        "outputPath": "E:\\cms.eStore\\cms.eStore\\obj\\",
+        "outputPath": "E:\\GitHub\\codigo_eStore\\cms.eStore\\cms.eStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

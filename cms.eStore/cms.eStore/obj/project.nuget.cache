@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z2GjWj+HZDlvcu+ViSmPEPlmZcwnNiGKPbWy6AuXb4GsUMMN/cw4PqFb3RkBRWPGTUHUyuHZIFDdN7A6fgkZQA==",
+  "dgSpecHash": "kirsV+SIWYXY+GVq4itAUr7jQ7F5xlCtgvIarpL3OXTevVlMg5WYaOrtpJeP4IAVM3/AZrQjHpRpHxH3pPQacg==",
   "success": true,
-  "projectFilePath": "E:\\cms.eStore\\cms.eStore\\cms.eStore.csproj",
+  "projectFilePath": "E:\\GitHub\\codigo_eStore\\cms.eStore\\cms.eStore\\cms.eStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tin Linn Soe\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Tin Linn Soe\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
